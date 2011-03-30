@@ -410,6 +410,7 @@
     <Content Include="Views\Admin\Users.aspx" />
     <Content Include="Views\Sessions\Add.aspx" />
     <Content Include="Views\Sessions\AdminBox.ascx" />
+    <Content Include="Views\Sessions\GetByDay.ascx" />
     <Content Include="Views\Sessions\Edit.aspx" />
     <Content Include="Views\Sessions\GetByTime.ascx" />
     <Content Include="Views\Sessions\GetByTrack.ascx" />

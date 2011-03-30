@@ -10,10 +10,53 @@
     <RecentFiles>
       <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:HomeController.cs" caret="627" fromTop="21" />
       <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:HomeControllerTest.cs" caret="1176" fromTop="25" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Admin/f:AdminMenuWidget.ascx" caret="0" fromTop="0" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Admin/f:Sessions.aspx" caret="3341" fromTop="67" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AccountControllerTest.cs" caret="0" fromTop="0" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:Domain/f:SessionLevel.cs" caret="0" fromTop="0" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/f:IdGenerator.cs" caret="1595" fromTop="27" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Core/f:IdGeneratorTests.cs" caret="0" fromTop="0" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:Domain/f:Session.cs" caret="732" fromTop="26" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AdminControllerTests.cs" caret="889" fromTop="9" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:AdminController.cs" caret="0" fromTop="0" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:Edit.aspx" caret="2608" fromTop="23" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:GetByDay.ascx" caret="1031" fromTop="4" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:Show.aspx" caret="0" fromTop="0" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:ViewModels/f:SessionsModels.cs" caret="490" fromTop="15" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:Index.aspx" caret="1423" fromTop="29" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="1134" fromTop="11" />
     </RecentFiles>
     <RecentEdits>
-      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:HomeControllerTest.cs" caret="1248" fromTop="15" />
       <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:HomeControllerTest.cs" caret="606" fromTop="8" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Admin/f:Sessions.aspx" caret="2584" fromTop="10" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Admin/f:Sessions.aspx" caret="3385" fromTop="22" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AdminControllerTests.cs" caret="487" fromTop="4" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AdminControllerTests.cs" caret="694" fromTop="17" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AdminControllerTests.cs" caret="368" fromTop="6" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AdminControllerTests.cs" caret="2939" fromTop="38" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:Domain/f:Session.cs" caret="3920" fromTop="11" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:Domain/f:Session.cs" caret="1311" fromTop="36" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AdminControllerTests.cs" caret="2634" fromTop="33" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:Domain/f:Session.cs" caret="801" fromTop="30" />
+      <File id="FCB02A4F-60DA-45E9-A9FA-782E71192D77/d:Controllers/f:AdminControllerTests.cs" caret="1928" fromTop="22" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="5205" fromTop="23" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="5041" fromTop="23" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:ViewModels/f:SessionsModels.cs" caret="1218" fromTop="41" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:Edit.aspx" caret="2584" fromTop="34" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:Edit.aspx" caret="2410" fromTop="18" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="2347" fromTop="28" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="2542" fromTop="30" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="2837" fromTop="35" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:ViewModels/f:SessionsModels.cs" caret="2242" fromTop="31" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:ViewModels/f:SessionsModels.cs" caret="1988" fromTop="23" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:GetByDay.ascx" caret="83" fromTop="0" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:GetByDay.ascx" caret="151" fromTop="4" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:GetByDay.ascx" caret="833" fromTop="7" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Views/d:Sessions/f:Index.aspx" caret="1423" fromTop="29" />
+      <File id="13816E05-D438-4007-8657-930F6D76188B/d:ViewModels/f:SessionsModels.cs" caret="490" fromTop="15" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="1384" fromTop="32" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="652" fromTop="9" />
+      <File id="13E2AF64-E4CE-48AA-8216-86BC4FE5D101/d:Controllers/f:SessionsController.cs" caret="1134" fromTop="11" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -30,21 +73,119 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="mockTwitterService" priority="0" />
-      <Item value="x" priority="0" />
-      <Item value="new" priority="1" />
+      <Item value="x" priority="2" />
+      <Item value="new" priority="7" />
       <Item value="MultiSelectList`0" priority="0" />
       <Item value="Tweet`0" priority="0" />
-      <Item value="MockRepository`0" priority="0" />
+      <Item value="MockRepository`0" priority="2" />
+      <Item value="pvtm" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="Rhino" priority="0" />
+      <Item value="Mocks" priority="0" />
+      <Item value="repository" priority="2" />
+      <Item value="UserProfile`0" priority="1" />
+      <Item value="email" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="userProfiles" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Presentation`0" priority="2" />
+      <Item value="List" priority="0" />
+      <Item value="userProfile" priority="0" />
+      <Item value="PresentationLevel`0" priority="0" />
+      <Item value="PresentationCategory`0" priority="0" />
+      <Item value="Status" priority="0" />
+      <Item value="PresentationStatus`0" priority="0" />
+      <Item value="AdminController`0" priority="0" />
+      <Item value="IMembershipService`0" priority="0" />
+      <Item value="membershipService" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="user" priority="0" />
+      <Item value="target" priority="0" />
+      <Item value="Assert`0" priority="6" />
+      <Item value="result" priority="1" />
+      <Item value="ViewResult`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="MvcContrib.TestHelper" priority="0" />
+      <Item value="model" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="AdminSessionsModel`0" priority="3" />
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="session" priority="2" />
+      <Item value="asrt" priority="0" />
+      <Item value="Day" priority="1" />
+      <Item value="Category" priority="0" />
+      <Item value="SessionCategory`0" priority="0" />
+      <Item value="User" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Level" priority="0" />
+      <Item value="DisplayName" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="DayLinkCssClass" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:EventServer.Core.Services.ITwitterService">
       <Item value="Stub`2" priority="0" />
       <Item value="GetaRecentTweets`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
-      <Item value="Return`0" priority="0" />
+      <Item value="Return`0" priority="3" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
-      <Item value="GenerateMock`1" priority="0" />
+      <Item value="GenerateMock`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventServer.Core.IRepository">
+      <Item value="Expect`2" priority="0" />
+      <Item value="Find`1" priority="1" />
+      <Item value="Get`1" priority="0" />
+      <Item value="Stub`2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EventServer.Core.Domain.PresentationLevel">
+      <Item value="Beginner" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EventServer.Core.Domain.PresentationCategory">
+      <Item value="Developers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AsQueryable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EventServer.Core.Domain.PresentationStatus">
+      <Item value="Accepted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventServer.Core.Services.IMembershipService">
+      <Item value="IsUserInRole`0" priority="1" />
+      <Item value="Stub`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventServer.UI.Controllers.AdminController">
+      <Item value="Sessions`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsNotNull`0" priority="3" />
+      <Item value="IsInstanceOfType`0" priority="0" />
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ActionResult">
+      <Item value="AssertViewRendered`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewResult">
+      <Item value="WithViewData`1" priority="0" />
+      <Item value="ViewData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary">
+      <Item value="Model" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventServer.Core.ViewModels.AdminSessionsModel">
+      <Item value="Sessions" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@EventServer.Core.Domain.SessionCategory">
+      <Item value="Developers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventServer.Core.Domain.Session">
+      <Item value="Day" priority="0" />
+      <Item value="TimeSlot" priority="0" />
+      <Item value="Track" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ThenBy`2" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

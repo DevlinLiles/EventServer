@@ -13,6 +13,7 @@ namespace EventServer.Core.ViewModels
         public string ListLinkCssClass { get; set; }
         public string TracksLinkCssClass { get; set; }
         public string TimesLinkCssClass { get; set; }
+        public string DayLinkCssClass { get; set; }
     }
 
     public class SessionsAddEditModel
@@ -55,6 +56,18 @@ namespace EventServer.Core.ViewModels
     public class SessionsGetByTrackModel
     {
         public SessionsGetByTrackModel(IEnumerable<Session> presentations, bool isAdmin)
+        {
+            Sessions = presentations.ToArray();
+            IsAdmin = isAdmin;
+        }
+
+        public Session[] Sessions { get; set; }
+        public bool IsAdmin { get; set; }
+    }
+
+    public class SessionsGetByDayModel
+    {
+        public SessionsGetByDayModel(IEnumerable<Session> presentations, bool isAdmin)
         {
             Sessions = presentations.ToArray();
             IsAdmin = isAdmin;

@@ -19,7 +19,7 @@ namespace EventServer.UI.Controllers
 
         public ActionResult Index(string tab)
         {
-            if (!string.IsNullOrEmpty(tab) && new[] {"list", "tracks", "times"}.Contains(tab))
+            if (!string.IsNullOrEmpty(tab) && new[] {"list", "tracks", "times", "days"}.Contains(tab))
                 Response.Cookies.Set(new HttpCookie("sessions-tab", tab) {Expires = DateTime.Today.AddYears(10)});
             else
             {
@@ -27,12 +27,13 @@ namespace EventServer.UI.Controllers
                 tab = sessionsTabCookie == null ? "list" : sessionsTabCookie.Value;
             }
 
-            var actions = new Dictionary<string, string> {{"list", "GetRawList"}, {"tracks", "GetByTrack"}, {"times", "GetByTime"}};
+            var actions = new Dictionary<string, string> {{"list", "GetRawList"}, {"tracks", "GetByTrack"}, {"times", "GetByTime"}, {"days", "GetByDay"}};
 
             return View(new SessionsIndexModel
             {
                 ContentAction = actions[tab],
                 ListLinkCssClass = tab == "list" ? "you-are-here" : "",
+                DayLinkCssClass = tab == "days" ? "you-are-here" : "",
                 TracksLinkCssClass = tab == "tracks" ? "you-are-here" : "",
                 TimesLinkCssClass = tab == "times" ? "you-are-here" : "",
             });
@@ -56,6 +57,22 @@ namespace EventServer.UI.Controllers
                     .Where(x => x.Track != "None");
 
             return View(new SessionsGetByTrackModel(presentations, _currentUser.IsAdmin));
+        }
+
+        public ActionResult GetByDay()
+        {
+            IEnumerable<Session> presentations = _repository
+                .FindAcceptedPresentations()
+                .OrderBy(x => x.Day)
+                .ThenBy(x=>x.Track)
+                .ThenBy(x => x.Slot);
+
+            if (!_currentUser.IsAdmin)
+                presentations = presentations
+                    .Where(x => !string.IsNullOrEmpty(x.Track))
+                    .Where(x => x.Track != "None");
+
+            return View(new SessionsGetByDayModel(presentations, _currentUser.IsAdmin));
         }
 
         public ActionResult GetByTime()
